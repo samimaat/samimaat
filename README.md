@@ -5,7 +5,7 @@ Hi, I’m @samimaat and I'm pretty much a hobbyist. You can check out my persona
 I’m interested in web development (fullstack when possible), so I dabble in code challenges. Now I have been mostly working on my own website. My work is in accessible digital publishing, so I am also learning about accessibility in the web. The formats are the same (HTML).
 
 ## Recently
-I just recently finished my Twitter bot that will begin tweeting out energy saving tips.
+Check out my page's [\now](https://samimaatta.fi/now) for more info!
 
 ## Contact
 Check out [my contact info](https://samimaatta.fi/#socials) from my website.
