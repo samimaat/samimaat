@@ -1,11 +1,13 @@
 # Intro
-Hi, I’m @samimaat and I'm pretty much a hobbyist. You can check out my personal site [samimaatta.fi](https://samimaatta.fi). It's built with @11ty, deployed with Netlify and hosted by Domainhotelli.
+Hi, I’m @samimaat and I have graduated from being a hobbyist. I champion digital accessibility and I like lightweight, minimal websites. You can check out my personal site [samimaatta.fi](https://samimaatta.fi). It's built with [Eleventy](https://github.com/11ty/eleventy) and deployed with Netlify.
 
 ## Interests
-I’m interested in web development (fullstack when possible), so I dabble in code challenges. Now I have been mostly working on my own website. My work is in accessible digital publishing, so I am also learning about accessibility in the web. The formats are the same (HTML).
+Nowadays I'm dabbling in frontend development and accessible data visualization is very interesting to me! Not much development on my part tho. 
+
+I know HTML and CSS through my job in accessible publishing, but I want to learn more about it on the web.
 
 ## Recently
-Check out my page's [\now](https://samimaatta.fi/now) for more info!
+I have been thinking about a redesign on my personal website, but I haven't been able to get to it!
 
 ## Contact
 Check out [my contact info](https://samimaatta.fi/#socials) from my website.
