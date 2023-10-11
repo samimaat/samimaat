@@ -7,7 +7,7 @@ Nowadays I'm dabbling in frontend development and accessible data visualization 
 I know HTML and CSS through my job in accessible publishing, but I want to learn more about it on the web.
 
 ## Recently
-I have been thinking about a redesign on my personal website, but I haven't been able to get to it!
+I have been thinking about a redesign on my personal website, but I haven't been able to get to it! Check out my personal website and the [Helsinki pedestrians' association's website (in Finnish)](https://jalankulkijat.fi) if you want to see some of my work.
 
 ## Contact
 Check out [my contact info](https://samimaatta.fi/#socials) from my website.
